@@ -1,7 +1,7 @@
 # BaccaratFlow Automation Framework 🎲
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
+[![Build Status](https://img.shields.io/
+[![License](https://img.shields.io/
 
 ---
 
@@ -11,12 +11,6 @@
 - [Requirements](#requirements)  
 - [Folder Structure](#folder-structure)  
 - [Setup Instructions](#setup-instructions)  
-- [Environment Configuration](#environment-configuration)  
-- [Test Flow](#test-flow)  
-- [Running the Tests](#running-the-tests)  
-- [Validations & Expected Results](#validations--expected-results)  
-- [Notes & Best Practices](#notes--best-practices)  
-
 ---
 
 ## Objective
@@ -47,7 +41,8 @@ A **watcher helper** continuously monitors tables to ensure safe betting.
 - TypeScript >= 5.0  
 
 **Test credentials:**  
-
+jerry001
+nJ1KuP
 ---
 
 ## Setup Instructions
