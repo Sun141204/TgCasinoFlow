@@ -1,0 +1,14 @@
+{
+  "name": "baccaratflow",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test --headed",
+    "test:api": "npx playwright test --grep @api"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^24.7.2",
+    "axios": "^1.7.4",
+    "dotenv": "^16.6.1"
+  }
+}
