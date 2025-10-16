@@ -1,8 +1,4 @@
 # BaccaratFlow Automation Framework 🎲
-
-[![Build Status](https://img.shields.io/
-[![License](https://img.shields.io/
-
 ---
 
 ## Table of Contents
